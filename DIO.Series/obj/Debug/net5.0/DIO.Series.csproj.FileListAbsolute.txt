@@ -1,0 +1,28 @@
+C:\Users\kaleb\OneDrive\Área de Trabalho\DIO\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+C:\Users\kaleb\OneDrive\Área de Trabalho\DIO\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+C:\Users\kaleb\OneDrive\Área de Trabalho\DIO\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+C:\Users\kaleb\OneDrive\Área de Trabalho\DIO\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+C:\Users\kaleb\OneDrive\Área de Trabalho\DIO\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+C:\Users\kaleb\OneDrive\Área de Trabalho\DIO\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+C:\Users\kaleb\OneDrive\Área de Trabalho\DIO\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+C:\Users\kaleb\OneDrive\Área de Trabalho\DIO\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+C:\Users\kaleb\OneDrive\Área de Trabalho\DIO\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaleb\OneDrive\Área de Trabalho\DIO\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\kaleb\OneDrive\Área de Trabalho\DIO\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+C:\Users\kaleb\OneDrive\Área de Trabalho\DIO\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\kaleb\OneDrive\Área de Trabalho\DIO\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+C:\Users\kaleb\OneDrive\Área de Trabalho\DIO\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+C:\Users\kaleb\OneDrive\Área de Trabalho\DIO\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+C:\Users\kaleb\OneDrive\Área de Trabalho\DIO\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
+D:\wce_github\wce_digitalinnovationone\APP-CADATRO-MEM\bin\Debug\net5.0\DIO.Series.deps.json
+D:\wce_github\wce_digitalinnovationone\APP-CADATRO-MEM\bin\Debug\net5.0\DIO.Series.dll
+D:\wce_github\wce_digitalinnovationone\APP-CADATRO-MEM\bin\Debug\net5.0\ref\DIO.Series.dll
+D:\wce_github\wce_digitalinnovationone\APP-CADATRO-MEM\bin\Debug\net5.0\DIO.Series.pdb
+D:\wce_github\wce_digitalinnovationone\APP-CADATRO-MEM\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+D:\wce_github\wce_digitalinnovationone\APP-CADATRO-MEM\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\wce_github\wce_digitalinnovationone\APP-CADATRO-MEM\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+D:\wce_github\wce_digitalinnovationone\APP-CADATRO-MEM\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+D:\wce_github\wce_digitalinnovationone\APP-CADATRO-MEM\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+D:\wce_github\wce_digitalinnovationone\APP-CADATRO-MEM\obj\Debug\net5.0\DIO.Series.dll
+D:\wce_github\wce_digitalinnovationone\APP-CADATRO-MEM\obj\Debug\net5.0\ref\DIO.Series.dll
+D:\wce_github\wce_digitalinnovationone\APP-CADATRO-MEM\obj\Debug\net5.0\DIO.Series.pdb
